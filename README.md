@@ -1,2 +1,2 @@
-# java
-Object Oriented programming in Java: projects
+# Java
+Object Oriented Programming in Java: projects
